@@ -94,7 +94,4 @@ javac *.java
 java Main
 ```
 
-## Autoria
-
-Atividade desenvolvida como parte do curso de Análise e Desenvolvimento de
-Sistemas (ADS), na disciplina de Padrões de Projeto.
+Alunas: Giovana Marsigli e Mariana Akemi
